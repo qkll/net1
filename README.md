@@ -1,2 +1,2 @@
 # net
-try
+hello world
