@@ -1,4 +1,4 @@
 # net
 hello world.   
-Can i help for you?   
+Can i help  you?   
 netwin@qq.com
